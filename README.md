@@ -1,2 +1,3 @@
 # nl_words_from_rss
-Get NL rss news and make NL words dictionary
+
+Get Dutch RSS News And Make Dutch Frequency Dictionary
